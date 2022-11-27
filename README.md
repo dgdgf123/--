@@ -1,2 +1,2 @@
-# --
-RS_CODE
+# wudixiaozu
+have six students
