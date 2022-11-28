@@ -1,2 +1,0 @@
-# wudixiaozu
-have six students
